@@ -1,6 +1,5 @@
 INTERNSHIP #codealpha
 
-
 📝 Introduction This repository contains various Java programs covering basic to advanced concepts, including OOP, data structures, and algorithms.
 
 ⚙️ Requirements
